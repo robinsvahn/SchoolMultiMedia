@@ -1,0 +1,40 @@
+c:\users\robin\documents\visual studio 2015\Projects\MultiMedia2017\MultiMedia2017\bin\roslyn\csc.exe
+c:\users\robin\documents\visual studio 2015\Projects\MultiMedia2017\MultiMedia2017\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\robin\documents\visual studio 2015\Projects\MultiMedia2017\MultiMedia2017\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\robin\documents\visual studio 2015\Projects\MultiMedia2017\MultiMedia2017\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\robin\documents\visual studio 2015\Projects\MultiMedia2017\MultiMedia2017\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\robin\documents\visual studio 2015\Projects\MultiMedia2017\MultiMedia2017\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\robin\documents\visual studio 2015\Projects\MultiMedia2017\MultiMedia2017\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\robin\documents\visual studio 2015\Projects\MultiMedia2017\MultiMedia2017\bin\roslyn\System.Collections.Immutable.dll
+c:\users\robin\documents\visual studio 2015\Projects\MultiMedia2017\MultiMedia2017\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\robin\documents\visual studio 2015\Projects\MultiMedia2017\MultiMedia2017\bin\roslyn\vbc.exe
+c:\users\robin\documents\visual studio 2015\Projects\MultiMedia2017\MultiMedia2017\bin\roslyn\VBCSCompiler.exe
+c:\users\robin\documents\visual studio 2015\Projects\MultiMedia2017\MultiMedia2017\bin\roslyn\VBCSCompiler.exe.config
+c:\users\robin\documents\visual studio 2015\Projects\MultiMedia2017\MultiMedia2017\bin\MultiMedia2017.dll.config
+c:\users\robin\documents\visual studio 2015\Projects\MultiMedia2017\MultiMedia2017\bin\MultiMedia2017.dll
+c:\users\robin\documents\visual studio 2015\Projects\MultiMedia2017\MultiMedia2017\bin\MultiMedia2017.pdb
+c:\users\robin\documents\visual studio 2015\Projects\MultiMedia2017\MultiMedia2017\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\robin\documents\visual studio 2015\Projects\MultiMedia2017\MultiMedia2017\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\robin\documents\visual studio 2015\Projects\MultiMedia2017\MultiMedia2017\obj\Debug\MultiMedia2017.csprojResolveAssemblyReference.cache
+c:\users\robin\documents\visual studio 2015\Projects\MultiMedia2017\MultiMedia2017\obj\Debug\MultiMedia2017.dll
+c:\users\robin\documents\visual studio 2015\Projects\MultiMedia2017\MultiMedia2017\obj\Debug\MultiMedia2017.pdb
+S:\Repos\SchoolMultiMedia\MultiMedia2017\bin\roslyn\csc.exe
+S:\Repos\SchoolMultiMedia\MultiMedia2017\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+S:\Repos\SchoolMultiMedia\MultiMedia2017\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+S:\Repos\SchoolMultiMedia\MultiMedia2017\bin\roslyn\Microsoft.CodeAnalysis.dll
+S:\Repos\SchoolMultiMedia\MultiMedia2017\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+S:\Repos\SchoolMultiMedia\MultiMedia2017\bin\roslyn\Microsoft.CSharp.Core.targets
+S:\Repos\SchoolMultiMedia\MultiMedia2017\bin\roslyn\Microsoft.VisualBasic.Core.targets
+S:\Repos\SchoolMultiMedia\MultiMedia2017\bin\roslyn\System.Collections.Immutable.dll
+S:\Repos\SchoolMultiMedia\MultiMedia2017\bin\roslyn\System.Reflection.Metadata.dll
+S:\Repos\SchoolMultiMedia\MultiMedia2017\bin\roslyn\vbc.exe
+S:\Repos\SchoolMultiMedia\MultiMedia2017\bin\roslyn\VBCSCompiler.exe
+S:\Repos\SchoolMultiMedia\MultiMedia2017\bin\roslyn\VBCSCompiler.exe.config
+S:\Repos\SchoolMultiMedia\MultiMedia2017\bin\MultiMedia2017.dll.config
+S:\Repos\SchoolMultiMedia\MultiMedia2017\bin\MultiMedia2017.dll
+S:\Repos\SchoolMultiMedia\MultiMedia2017\bin\MultiMedia2017.pdb
+S:\Repos\SchoolMultiMedia\MultiMedia2017\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+S:\Repos\SchoolMultiMedia\MultiMedia2017\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+S:\Repos\SchoolMultiMedia\MultiMedia2017\obj\Debug\MultiMedia2017.csprojResolveAssemblyReference.cache
+S:\Repos\SchoolMultiMedia\MultiMedia2017\obj\Debug\MultiMedia2017.dll
+S:\Repos\SchoolMultiMedia\MultiMedia2017\obj\Debug\MultiMedia2017.pdb
